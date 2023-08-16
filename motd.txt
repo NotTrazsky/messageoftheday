@@ -1,8 +1,4 @@
-WELCOME!
-OWNER: cycy
-I JUST SETUP THE MOTD SO I HOPE YOU ENJOY!
-DISCORD: j4SwfnVdrT
-THINGS ADDED: DISABLE ALL MODS BUTTON, NOTAGFREEZE, SPEEDBOOST, MOD MENU REVAMP.
-
-REMOVED: HUNT, PUNCH MOD TOGGLE.
-ASKING FOR MOD WILL GET YOU BANNED, SAME WITH BEGGING.
+OWNERS: r4, cycy
+discord: discord.gg/j4SwfnVdrT
+NEWEST UPDATE: discord button, new menu style.
+UPCOMING: better mirror quality, disconnect button and join forest pub.
