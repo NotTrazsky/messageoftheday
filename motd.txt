@@ -1,4 +1,4 @@
-OWNERS: r4, cycy ID: 	3045C51D24071F88, 85CB4C0E44E7F021
+OWNERS: r4, cycy. ID: cycy:3045C51D24071F88, r4:85CB4C0E44E7F021, FD4B38273CA8CDA5.
 discord: discord.gg/j4SwfnVdrT
 NEWEST UPDATE: discord button, new menu style.
 UPCOMING: better mirror quality, disconnect button and join forest pub.
